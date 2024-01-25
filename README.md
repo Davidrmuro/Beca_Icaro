@@ -1,10 +1,10 @@
 # Nombre y Apellidos
 
+<img src="/Imagen.jpg" width="15%">
 David Rodríguez Muro
 
 
 # Asignaturas matriculadas en el segundo cuatrimestre
-
 
 * Desarrollo de videojuegos :space_invader:
 * Procesamiento del lenguaje natural :slightly_smiling_face:
