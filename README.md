@@ -16,10 +16,10 @@ En el segundo cuatrimestre, estoy matriculado en **3 asignaturas**.
 1. **Programación Orientada a Objetos**
    - Nota: 8.6 :technologist:
 
-2. **Calidad Software**
+2. **Calidad del Software**
    - Nota: 7.9 :white_check_mark:
 
-3. **Gestión de Proyectos Informáticos**
+3. **Gestión de Proyectos Software**
    - Nota: 7.9 :bar_chart:
 
 ## Repositorio GitHub
